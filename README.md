@@ -1,2 +1,1 @@
-# hello-world
-GitHub Guide
+Getting to know GitHub
